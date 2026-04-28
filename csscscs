@@ -1,0 +1,18 @@
+#backend
+npm init -y
+npm install express mongoose cors dotenv
+npm install nodemon --save-dev
+npm install
+npm run dev
+#frontend
+npm create vite@latest
+npm uninstall vte
+npm list --depth=0
+#git
+git init 
+git add .
+git commit -m "first commit"
+ git branch -M main
+git remote add origin https://github.com/IT24101093/abchdkd.git
+git push -u origin main 
+VITE_API_URL=http://localhost:5000/api
