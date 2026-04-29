@@ -19,3 +19,11 @@ VITE_API_URL=http://localhost:5000/api
 #versel
 npm run build
 npm install
+
+
+
+
+
+
+#sgyg
+npm install axios
